@@ -1,0 +1,9 @@
+{
+  "name": "recipiesathearth",
+  "version": "1.0.0",
+  "description": "Recipe book ",
+  "main": "index.js",
+  "repository": "https://github.com/ErikYSH/recipiesathearth.git",
+  "author": "Erik Yang, Denzel Samala, Joe Walker, Nelia Lanets",
+  "license": "MIT"
+}
