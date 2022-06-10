@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "recipieathearth server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Yang, Denzel Samala, Joe Walker, Nelia Lanets",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
