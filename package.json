@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://github.com/ErikYSH/recipiesathearth.git",
   "author": "Erik Yang, Denzel Samala, Joe Walker, Nelia Lanets",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server",
+    "packages/*"
+  ]
 }
+
+
