@@ -1,9 +1,22 @@
 {
-  "name": "recipiesathearth",
+  "name": "recipesathearth",
   "version": "1.0.0",
-  "description": "Recipe book ",
+  "description": "Recipe book",
   "main": "index.js",
   "repository": "https://github.com/ErikYSH/recipiesathearth.git",
   "author": "Erik Yang, Denzel Samala, Joe Walker, Nelia Lanets",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "concurrently": "^7.2.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "yarn --cwd server start",
+    "build": "yarn --cwd client build && mv ./client/build ./server/build",
+    "start-server-dev": "yarn --cwd server dev",
+    "start-client-dev": "yarn --cwd client start",
+    "dev": "concurrently --kill-others --handle-input -n client,server 'npm:start-client-dev' 'npm:start-server-dev'"
+  }
 }

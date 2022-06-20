@@ -9,7 +9,8 @@ const cors = require("cors");
 
 /* ===== Instanced Modules ===== */
 const app = express();
-const config = require('../packages/config')
+const config = require('../packages/config');
+const routes = require("./routes");
 
 /* ===== Middleware ===== */
 app.use(cors());
