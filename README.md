@@ -1,7 +1,7 @@
 # recipiesathearth 🥗 🌮 🍪 📝 👩‍🍳
 
 ----------------------------------
-** recipeathearth is a web based application built to house recipes passed down from generation to generation, and to collect new recipes to use. We 
+recipeathearth is a web based application built to house recipes passed down from generation to generation, and to collect new recipes to use. We 
 
 ------------------------------------
 LINKS:
@@ -25,7 +25,8 @@ TECHNOLOGIES USED:
 WIRE FRAMES: 
 [Recipes At Hearth Wireframe.pdf](https://github.com/ErikYSH/recipesathearth/files/8943953/Recipes.At.Hearth.Wireframe.pdf)
 -----------------------------
-USER STORIES:![Screen Shot 2022-06-20 at 3 18 24 PM](https://user-images.githubusercontent.com/92687151/174683955-3178ff29-f7ac-402d-a692-6be55e239a0a.png)
+USER STORIES:
+![Screen Shot 2022-06-20 at 3 18 24 PM](https://user-images.githubusercontent.com/92687151/174683955-3178ff29-f7ac-402d-a692-6be55e239a0a.png)
 ----------------------------
 USER FLOW:![PROJECT S - Frame 2](https://user-images.githubusercontent.com/92687151/174684078-6f25a62f-f677-45e2-8d69-e84f8b028a6a.jpg)
 ---------------------------
