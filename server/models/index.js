@@ -14,5 +14,5 @@ mongoose
     module.exports = {
         User: require("./User"),
         Recipe: require("./Recipe"),
-        MealType: require("./MealType"),
+
     }
