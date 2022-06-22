@@ -9,7 +9,7 @@ const cors = require("cors");
 
 /* ===== Instanced Modules ===== */
 const app = express();
-const config = require('../packages/config');
+const config = require("@recipesathearth/config");
 const routes = require("./routes");
 
 /* ===== Middleware ===== */
@@ -30,5 +30,5 @@ app.use((req, res, next) => {
 
 /* ===== Server Listener ===== */
 app.listen(config.PORT, () => {
-    console.log(`Recipes At Hearth is live on http://localhost:${config.PORT}`)
+    console.log(`Recipes At Hearth is live on http://localhost:${ config.PORT }`)
 })
