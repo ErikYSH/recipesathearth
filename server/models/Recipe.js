@@ -24,6 +24,9 @@ const recipeSchema = new Schema({
     },
     
     user: [{ type: Schema.Types.ObjectId, ref: "User" }],
+    meal_type: [{type: String}],
+
+
 
 });
 
