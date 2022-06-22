@@ -6,6 +6,11 @@
   "repository": "https://github.com/ErikYSH/recipiesathearth.git",
   "author": "Erik Yang, Denzel Samala, Joe Walker, Nelia Lanets",
   "license": "MIT",
+  "workspaces": [
+    "client",
+    "server",
+    "packages/*"
+  ],
   "dependencies": {
     "axios": "^0.27.2",
     "concurrently": "^7.2.2",

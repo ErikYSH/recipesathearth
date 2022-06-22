@@ -2,6 +2,5 @@
     "name": "@recipesathearth/config",
     "verson": "1.0.0",
     "main": "index.js",
-    "license": "MIT",
-    "private": true
+    "license": "MIT"
 }
