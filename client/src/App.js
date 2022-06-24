@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
+      <hr style={{color:"black"}}></hr>
     <Routes>
     <Route   path='/' element={<Layout  />}></Route>
     <Route  path='/AllRecipes' element={<AllRecipes />}></Route>
