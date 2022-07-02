@@ -1,5 +1,8 @@
 .recipe_header_container {
     display: flex;
+    justify-content: space-between;
+    padding: 80px;
+    /* border: 1px solid red; */
 }
 .recipe_header_img {
     display: flex;
