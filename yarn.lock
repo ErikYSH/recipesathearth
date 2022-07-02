@@ -1512,7 +1512,7 @@
     "schema-utils" "^3.0.0"
     "source-map" "^0.7.3"
 
-"@recipesathearth/config@file:/Users/nelialanets/Desktop/projectX/recipesathearth/packages/config":
+"@recipesathearth/config@file:/Users/Erikyang/Desktop/seirfx1026/Projects/recipiesathearth/packages/config":
   "resolved" "file:packages/config"
 
 "@rollup/plugin-babel@^5.2.0":
@@ -7657,7 +7657,7 @@
   dependencies:
     "picomatch" "^2.2.1"
 
-"recipesathearth@file:/Users/nelialanets/Desktop/projectX/recipesathearth/client":
+"recipesathearth@file:/Users/Erikyang/Desktop/seirfx1026/Projects/recipiesathearth/client":
   "resolved" "file:client"
   "version" "0.1.0"
   dependencies:
@@ -8078,7 +8078,7 @@
     "parseurl" "~1.3.3"
     "send" "0.18.0"
 
-"server@file:/Users/nelialanets/Desktop/projectX/recipesathearth/server":
+"server@file:/Users/Erikyang/Desktop/seirfx1026/Projects/recipiesathearth/server":
   "resolved" "file:server"
   "version" "1.0.0"
   dependencies:
