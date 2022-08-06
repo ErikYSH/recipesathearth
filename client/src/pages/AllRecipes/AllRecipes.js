@@ -1,7 +1,9 @@
 import React from 'react'
+import RecipeCard from '../../components/AllRecipes/RecipeCard'
 
 export default function AllRecipes() {
   return (
-    <div>All Recipes</div>
+   < RecipeCard />
+   
   )
 }

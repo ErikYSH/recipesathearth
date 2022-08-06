@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Playfair+Display+SC:wght@900&family=Rubik:wght@300&display=swap');
+
 
 * {
   box-sizing: border-box;
@@ -11,6 +13,7 @@ body, #root {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+ 
 
 }
 

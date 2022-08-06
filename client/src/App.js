@@ -8,8 +8,9 @@ import Recipes from './pages/MyRecipes/Recipes';
 
 function App() {
   return (
+    <>
+     <Navbar />
     <div className="App">
-      <Navbar />
       <hr style={{color:"black"}}></hr>
     <Routes>
     <Route   path='/' element={<Layout  />}></Route>
@@ -17,6 +18,7 @@ function App() {
     <Route path='/Recipes' element={<Recipes />}></Route>
     </Routes>
     </div>
+    </>
   );
 }
 
