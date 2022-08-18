@@ -1,0 +1,26 @@
+.details-container{
+    display: flex;
+    width: 50%;
+    margin-top: 25%;
+}
+.ingredient-container{
+    display: inline-block;
+    padding: 1rem 1rem;
+    margin-right: 50%;
+    border: 2px solid;
+    border-color: blue;
+    vertical-align: middle;
+}
+
+.directions-container{
+    display: inline-block;
+    padding: 1rem 1rem;
+    border: 2px solid;
+    border-color: red;
+    vertical-align: middle;
+}
+
+.action-container{
+    margin-top: 5rem;
+
+}
