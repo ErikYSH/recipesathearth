@@ -3,6 +3,7 @@ import styled from "styled-components";
 
 export function DetailRecipe() {
   return (
+    <div>
     <ComponentRoot>
       <Element1>
         <WhiteFlexColumn>
@@ -37,8 +38,10 @@ export function DetailRecipe() {
       </Element1>
       <Line1 src={`https://file.rendit.io/n/RM1yK8AVFLfNAaGlLx0K.svg`} />
     </ComponentRoot>
+    </div>
   );
 }
+
 const Line2 = styled.img`
   width: 159px;
   height: 0.5px;

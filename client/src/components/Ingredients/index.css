@@ -1,7 +1,11 @@
+* {
+    font-family: 'Inter';
+}
+
 .details-container{
     display: flex;
     width: 50%;
-    margin-top: 25%;
+
 }
 .ingredient-container{
     display: inline-block;

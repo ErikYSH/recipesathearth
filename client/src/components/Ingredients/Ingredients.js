@@ -6,7 +6,8 @@ import "./index.css"
 export default function Ingredients() {
   return (
     <div>
-        <hr></hr>
+        <hr style={{color:"black"}}></hr>
+
             <div className="details-container">   
             
                 <div className="ingredient-container">
